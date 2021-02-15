@@ -11,6 +11,5 @@ renderSocials('footer > .socials', socialsData);
 
 new ProgressBar('.left-column', progressBarData);
 
-console.clear();
 
 new Forms();
